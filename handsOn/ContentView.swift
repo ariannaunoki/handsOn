@@ -8,6 +8,7 @@
 import SwiftUI
 // Hi. Heidi was here :)
 //Tabassum was here :))
+//Bro Juli's Brain died, help :v
 struct ContentView: View {
     var body: some View {
         VStack {
